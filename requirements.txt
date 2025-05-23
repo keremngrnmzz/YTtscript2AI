@@ -1,0 +1,6 @@
+youtube-transcript-api==0.6.1
+pyperclip==1.8.2
+keyboard==0.13.5
+pystray==0.19.4
+Pillow==10.0.0
+pyinstaller==6.3.0 
