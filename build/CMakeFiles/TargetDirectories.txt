@@ -1,0 +1,3 @@
+C:/Users/kerem/Desktop/Ctest/cppytt/build/CMakeFiles/YouTubeLinkCopier.dir
+C:/Users/kerem/Desktop/Ctest/cppytt/build/CMakeFiles/edit_cache.dir
+C:/Users/kerem/Desktop/Ctest/cppytt/build/CMakeFiles/rebuild_cache.dir

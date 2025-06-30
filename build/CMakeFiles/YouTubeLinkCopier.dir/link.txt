@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\YouTubeLinkCopier.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\YouTubeLinkCopier.dir/objects.a @CMakeFiles\YouTubeLinkCopier.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -O2 -g -mwindows -Wl,--whole-archive CMakeFiles\YouTubeLinkCopier.dir/objects.a -Wl,--no-whole-archive -o YouTubeLinkCopier.exe -Wl,--out-implib,libYouTubeLinkCopier.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\YouTubeLinkCopier.dir\linkLibs.rsp
